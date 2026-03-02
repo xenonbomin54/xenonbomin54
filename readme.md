@@ -1,1 +1,1 @@
-This is a portfolio page of xenonbomin54, who is student developer.
+This is a portfolio page of xenonbomin54,a student developer.
