@@ -5,10 +5,9 @@
 <br>
 
 <div>
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👋 About Me</h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">About Me</h2>
   <p style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    화면에 보이는 것부터 서버 너머의 로직까지, 전체 흐름을 이해하고 만들어내는 것을 좋아하는 풀스택 개발자입니다.<br><br>
-    프론트엔드에서는 사용자가 느끼는 경험을, 백엔드에서는 안정적으로 동작하는 구조를 고민합니다. 하나의 기술에 갇히지 않고, 문제 상황에 맞는 최적의 방법을 찾아 적용하는 것을 중요하게 생각합니다.<br><br>
+    프론트엔드와 백엔드를 직접 구현하며 상상을 현실로 만드는 것을 좋아합니다.<br><br>
     최근에는 <b>React Native</b>로 모바일까지 영역을 넓히며, 웹을 넘어선 개발 경험을 쌓아가고 있습니다.
   </p>
   
