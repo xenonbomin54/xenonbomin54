@@ -9,6 +9,7 @@ function Header() {
                 <div>기술 스택</div>
                 <div>발자취</div>
                 <div>프로젝트</div>
+                <div>연락처</div>
             </div>
         </header>
     )
